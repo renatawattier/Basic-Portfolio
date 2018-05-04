@@ -48,9 +48,6 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
-    background-color: #111;
-}
     
 .contact {
     background: rgb(18, 2, 63);
@@ -137,11 +134,17 @@ input[type=submit]:hover {
     margin: 30px;
 }
 
+#bbb {
+    background: white;
+    overflow: auto;
+    font-size: 40px;
+    color: Teal;
+}
 
 .box{
     background: white;
     width: 960px;
-    
+    padding-left: 150px;
     margin: auto;
     
 }
@@ -162,9 +165,50 @@ input[type=submit]:hover {
     width: 400px;
     height: 50px;
     position: absolute;
-    margin: 150px;
+    margin: -59px;
+    margin-left: 404px
 
 }
+
+#photo3 {
+    background-color: teal;
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    margin: -60px;
+    margin-left: 0px
+    
+
+}
+
+#photo4 {
+    background-color: teal;
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    margin: -59px;
+    margin-left: 404px
+}
+
+#photo5 {
+    background-color: teal;
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    margin: -60px;
+    margin-left: 0px    
+
+}
+
+#photo6 {
+    background-color: teal;
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    margin: -59px;
+    margin-left: 404px
+}
+
 
 img{
     display: inline;
